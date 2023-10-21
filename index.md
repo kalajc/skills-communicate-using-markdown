@@ -6,6 +6,14 @@
 
 
 
+``` c++
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
+```
 
 
 
@@ -24,7 +32,4 @@
 
 
 
-
-
-
-This is my first time using markdown, I changed the index.md file and created a header with markdown.
+This is my first time using markdown, I changed the index.md file and created a header, a new picture, and added a code example.
