@@ -15,6 +15,9 @@ int main() {
 }
 ```
 
+- [x] Add new cat picture
+- [x] Add Hello World!
+- [ ] Add more cat pictures
 
 
 
@@ -32,4 +35,3 @@ int main() {
 
 
 
-This is my first time using markdown, I changed the index.md file and created a header, a new picture, and added a code example.
